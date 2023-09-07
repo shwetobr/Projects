@@ -23,9 +23,9 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 
 Calculating the following measures could help to define proper KPIs:
 
-# of men
-# of women
-# of leavers
+- of men
+- of women
+- of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
